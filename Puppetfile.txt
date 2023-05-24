@@ -1,0 +1,19 @@
+mod 'stdlib',
+	:git => "ssh://git@github.com:saimohansai/Docker_Repo.git"
+	:ref => "d2965984bafd37278e045fde9d6ebfd5362d00af"
+
+mod 'stdlib1',
+	:git => "ssh://git@github.com:saimohansai/android_shellscript.git"
+	:ref => "1de36845c57eb463f5f60bb38df75677d13e73c2"
+
+mod 'stdlib2',
+	:git => "ssh://git@github.com:saimohansai/M_Automation.git"
+	:ref => "master"
+
+mod 'stdlib3',
+	:git => "ssh://git@github.com:saimohansai/kiran_pachava.git"
+	:tag => "v1.4.0"
+
+mod 'stdlib4',
+	:git => "ssh://git@github.com:saimohansai/spring-petclinic.git"
+	:ref => "master"
